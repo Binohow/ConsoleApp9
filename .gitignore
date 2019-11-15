@@ -1,4 +1,4 @@
 bin/*
-ob/*
+obj/*
 *.csproj
 *.sln

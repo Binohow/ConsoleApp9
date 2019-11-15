@@ -7,7 +7,7 @@ namespace ConsoleApp9
 		string id
 		{
 			get;
-
+			set;
 		}
 		
 	}
